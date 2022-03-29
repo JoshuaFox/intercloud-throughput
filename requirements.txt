@@ -1,7 +1,0 @@
-black
-geopy
-matplotlib
-numpy
-pyyaml
-requests
-scipy

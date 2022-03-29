@@ -1,1 +1,0 @@
-These are results from a series of tests with this tool in February 2022.
